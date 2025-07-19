@@ -9,7 +9,7 @@ pydantic==1.10.7
 pyngrok==5.0.0
 tqdm==4.66.1
 requests==2.28.1
-chromadb==0.4.15
+chromadb==0.4.13
 langchain==0.0.200
 pypika==0.48.9
 sqlalchemy==1.4.0
