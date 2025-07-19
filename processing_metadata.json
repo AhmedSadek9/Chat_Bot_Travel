@@ -1,0 +1,14 @@
+{
+  "total_reviews": 20491,
+  "total_chunks": 20517,
+  "average_chunk_length": 105.73894818930643,
+  "rating_distribution": {
+    "5": 9058,
+    "4": 6051,
+    "3": 2188,
+    "2": 1797,
+    "1": 1423
+  },
+  "processing_date": "2025-07-19T20:46:29.727308",
+  "source_file": "tripadvisor_hotel_reviews.csv"
+}
